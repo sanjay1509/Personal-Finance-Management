@@ -22,7 +22,7 @@
 <body>
 <nav class="navbar">
                 <div class="container">
-                    <img src="./images/lg.png" class="logo">
+                    <img src="lg.png" class="logo">
                     <div class="search-bar">
                         <span class="material-symbols-sharp">
                             search
@@ -40,7 +40,7 @@
                         </div>
                          <div class="profile">
                             <div class="profile-photo">
-                                <img src="./images/profile-1.jpg" onclick="toggleMenu()" ondblclick="toleMenu()">
+                                <img src="profile-1.jpg" onclick="toggleMenu()" ondblclick="toleMenu()">
                             </div>
                             
                             
@@ -106,12 +106,12 @@
                                     <img src="BTC.png">
                                     <h2>BTC</h2>
                                 </div>
-                                <img src="./images/visa.png" class="right" >
+                                <img src="visa.png" class="right" >
                             </div>
                             <div class="middle">
                                 <h1 style="margin: 0;">$836,666</h1>
                                 <div class="chip">
-                                    <img src="./images/card chip.png">
+                                    <img src="card chip.png">
                                 </div>
                             </div>
                             <div class="bottom">
@@ -136,15 +136,15 @@
                         <div class="card">
                             <div class="top">
                                 <div class="left">
-                                    <img src="./images/ETH.png">
+                                    <img src="ETH.png">
                                     <h2>ETH</h2>
                                 </div>
-                                <img src="./images/master card.png" class="right">
+                                <img src="master card.png" class="right">
                             </div>
                             <div class="middle">
                                 <h1 style="margin: 0;">$36,666</h1>
                                 <div class="chip">
-                                    <img src="./images/card chip.png">
+                                    <img src="card chip.png">
                                 </div>
                             </div>
                             <div class="bottom">
@@ -169,15 +169,15 @@
                         <div class="card">
                             <div class="top">
                                 <div class="left">
-                                    <img src="./images/BTC.png">
+                                    <img src="BTC.png">
                                     <h2>BTC</h2>
                                 </div>
-                                <img src="./images/visa.png" class="right">
+                                <img src="visa.png" class="right">
                             </div>
                             <div class="middle">
                                 <h1 style="margin: 0;">$86,666</h1>
                                 <div class="chip">
-                                    <img src="./images/card chip.png">
+                                    <img src="card chip.png">
                                 </div>
                             </div>
                             <div class="bottom">
@@ -351,7 +351,7 @@
                         </div>
 
                         <div class="investment">
-                            <img src="./images/uniliver.png">
+                            <img src="uniliver.png">
                             <h4>Uniliver</h4>
                             <div class="date-time">
                                 <p>11 Feb,2023</p>
@@ -368,7 +368,7 @@
                         </div>
                         <!-- end of investment-1 -->
                         <div class="investment">
-                            <img src="./images/tesla.png">
+                            <img src="tesla.png">
                             <h4>Tesla</h4>
                             <div class="date-time">
                                 <p>15 Sep,2017</p>
@@ -385,7 +385,7 @@
                         </div>
                         <!-- end of investment-2 -->
                         <div class="investment">
-                            <img src="./images/monster.png">
+                            <img src="monster.png">
                             <h4>Monster</h4>
                             <div class="date-time">
                                 <p>11 Feb,2023</p>
@@ -402,7 +402,7 @@
                         </div>
                         <!-- end of investment-3 -->
                         <div class="investment">
-                            <img src="./images/mcdonalds.png">
+                            <img src="mcdonalds.png">
                             <h4>McDonals</h4>
                             <div class="date-time">
                                 <p>14 Sep,2020</p>
@@ -443,7 +443,7 @@
                             </div>
                             <div class="card-details">
                                 <div class="card bg-danger">
-                                    <img src="./images/visa.png" >
+                                    <img src="visa.png" >
                                 </div>
                                 <div class="details">
                                     <p>*2757</p>
@@ -467,7 +467,7 @@
                             </div>
                             <div class="card-details">
                                 <div class="card bg-dark">
-                                    <img src="./images/master card.png" >
+                                    <img src="master card.png" >
                                 </div>
                                 <div class="details">
                                     <p>*2757</p>
@@ -493,7 +493,7 @@
                             </div>
                             <div class="card-details">
                                 <div class="card bg-primary">
-                                    <img src="./images/visa.png" >
+                                    <img src="visa.png" >
                                 </div>
                                 <div class="details">
                                     <p>*2757</p>
@@ -521,7 +521,7 @@
                             </div>
                             <div class="card-details">
                                 <div class="card bg-dark">
-                                    <img src="./images/master card.png" >
+                                    <img src="master card.png" >
                                 </div>
                                 <div class="details">
                                     <p>*2757</p>
@@ -547,7 +547,7 @@
                             </div>
                             <div class="card-details">
                                 <div class="card bg-dark">
-                                    <img src="./images/master card.png" >
+                                    <img src="master card.png" >
                                 </div>
                                 <div class="details">
                                     <p>*2757</p>
@@ -569,7 +569,7 @@
             <div class="sub-menu-wrap" id="subMenu">
                 <div class="sub-menu">
                     <div class="user-info">
-                        <img src="./images/profile-1.jpg">
+                        <img src="profile-1.jpg">
                         <h2>Sanju</h2>
                     </div>
                     <hr>
@@ -616,7 +616,7 @@
                         <div class="profile-tab-nav border-right">
                             <div class="p-4">
                                 <div class="img-circle text-center mb-3">
-                                    <img src="./images/profile-1.jpg" alt="Image" class="shadow">
+                                    <img src="profile-1.jpg" alt="Image" class="shadow">
                                 </div>
                                 <h4 class="text-center">Sanjay Kumar</h4>
                             </div>
