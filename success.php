@@ -103,7 +103,7 @@
                         <div class="card" >
                             <div class="top" >
                                 <div class="left">
-                                    <img src="./images/BTC.png">
+                                    <img src="BTC.png">
                                     <h2>BTC</h2>
                                 </div>
                                 <img src="./images/visa.png" class="right" >
